@@ -4,6 +4,7 @@
 178.154.206.199  ansible_ssh_key_file=/home/student/.ssh/id_rsa.pub ansible_user=centos
 
 [web]
+178.154.204.115  ansible_ssh_key_file=/home/student/.ssh/id_rsa.pub ansible_user=ubuntu1
 
 [database]
 
